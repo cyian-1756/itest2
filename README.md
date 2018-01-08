@@ -1,6 +1,6 @@
 ## Itest2
 
-This is a IC2 like mod made for minetest using the [tech_api](https://github.com/gdelazzari/tech_api)
+This is an Industrialcraft 2 like mod made for minetest using the [tech_api](https://github.com/gdelazzari/tech_api)
 
 ### Depends
 * default
