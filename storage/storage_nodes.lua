@@ -40,7 +40,7 @@ local ACS_unit = {
     description = "ACS Unit",
     max_rate = 8192,
     capacity = 160000000,
-    tiles={"itest_mfe_side.png", "itest_mfe_side.png", "itest_mfe_output.png", "itest_mfe_side.png", "itest_mfe_side.png", "itest_mfe_side.png"},
+    tiles={"itest_acs_side.png", "itest_acs_side.png", "itest_acs_output.png", "itest_acs_side.png", "itest_acs_side.png", "itest_acs_side.png"},
 }
 
 register_storage(batbox)
